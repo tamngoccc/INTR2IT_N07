@@ -9,7 +9,8 @@ This is for INTR2IT_N07 at PKA
 ## Chương 2
 - Sử dụng GG Search và Chat GPT
 ## Chương 3
-
+- Hệ thống số
 ## Chương 4
-
+-Linux
 ## Chương 5
+-Git và ứng dụng
