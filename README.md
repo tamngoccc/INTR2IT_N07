@@ -17,4 +17,5 @@ python main.py
 - Linux
 ## Chương 5
 - Git và ứng dụng
+- thaiccc
 - 
