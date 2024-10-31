@@ -1,5 +1,5 @@
 # INTR2IT_N07
-This is for INTR2IT_N07 at PKA\
+This is for INTR2IT_N07 at PKA
 ```
 python main.py
 ```
@@ -17,5 +17,3 @@ python main.py
 - Linux
 ## Chương 5
 - Git và ứng dụng
-- thaiccc
-- 
