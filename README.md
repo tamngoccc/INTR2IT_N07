@@ -2,6 +2,7 @@
 This is for INTR2IT_N07 at PKA\
 ```
 python main.py
+```
 
 # Nội dung học phần
 ## Chương 1
